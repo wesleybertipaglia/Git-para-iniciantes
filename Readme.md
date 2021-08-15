@@ -5,7 +5,7 @@ Olá, seja bem vindo(a)!
 Este projeto representa meus primeiros passos com git e github. Gosto de aprender escrevendo meus próprios tutoriais, assim fixo melhor o conteúdo e consigo ajudar algumas pessoas.
 
 #### Objetivo
-O objetivo desse projeto é ser o mais simples e claro possível e pretende ajudar pessoas totalmente iniciantes até as com conhecimento aprofundado.
+O objetivo desse projeto é ser o mais simples e claro possível e pretende ajudar pessoas totalmente iniciantes em seus primeiros passos.
 
 #### Sumário
 1. <a href="">Conceitos Básicos em Git</a>
