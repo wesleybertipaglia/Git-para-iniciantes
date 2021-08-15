@@ -4,4 +4,25 @@ Comandos Básicos do git bash
 
 2. git init - inicia um repositório git vazio;
 
-3. git branch -M "main" - muda a nomenclatura da branch principal para main
+3. git branch -M "main" - muda a nomenclatura da branch principal para main;
+
+4.  - adiciona um email ao git;
+
+5. - adiciona seu nome ao git;
+
+6. git add <nome do arquivo> - adiciona o arquivo ao git standing;
+
+7. git add . - envia todos arquivos disponíveis para área de stading;
+
+8. git status - para verificar o status do git;
+
+9. git commit -m <titulo do commit> - cria um commit;
+
+10. git remote add origin <link>.git - conecta o git ao github;
+
+11. git push -U origin main - para fazer o primeiro push do projeto para o github;
+
+12. git push origin main - para fazer um novo push no repositório;
+
+13. Clear - para limpar a tela do Git Bash;
+
