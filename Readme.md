@@ -13,8 +13,8 @@ O objetivo desse projeto é ser o mais simples e claro possível e pretende ajud
 3. <a href="">Comandos Básicos do Git Bash</a>
 
 #### Links importântes
-Download Git - https://git-scm.com/downloads
-Documentação e referências git - https://git-scm.com/docs/git
-Sobre o Git - https://git-scm.com/about
-Livro Pro Git (download gratuito) - https://git-scm.com/book/en/v2
-Comunidade Git - https://git-scm.com/community
+<p>Download Git - https://git-scm.com/downloads</p>
+<p>Documentação e referências git - https://git-scm.com/docs/git</p>
+<p>Sobre o Git - https://git-scm.com/about</p>
+<p>Livro Pro Git (download gratuito) - https://git-scm.com/book/en/v2</p>
+<p>Comunidade Git - https://git-scm.com/community</p>
