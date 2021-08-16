@@ -1,4 +1,4 @@
-<img src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" alt="Git Logo" width="500px"/>
+<img src="https://git-scm.com/images/logos/1color-orange-lightbg@2x.png" alt="Git Logo" width="500px" style="aling-items:center;"/>
 
 # Git para Iniciantes
 Olá, seja bem vindo(a)!
